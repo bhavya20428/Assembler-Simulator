@@ -2,11 +2,11 @@ This was our project for the course "Computer Organisation" offered in IIITD. In
 
 How to run Assembler?
 
-Go to Simple-Assembler and run Assembler.py
+Go to Simple-Assembler and run Assembler.py.
 
 How to run Simulator?
 
-Go to SimpleSimulator and run Simulator.py
+Go to SimpleSimulator and run Simulator.py.
 
 How to evaluate our Assembler and Simulator?
 * Go to the `automatedTesting` directory and execute the `run` file with appropiate options passed as arguments.
