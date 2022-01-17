@@ -1,4 +1,4 @@
-This was our project for the course "Computer Organisation" offered in IIITD. In this project, we created a Custom Assembler and Simulator using python while appyling the concepts of Computer Organisation.
+This was our project for the course "Computer Organisation" offered in IIITD. In this project, we created a Custom Assembler and Simulator while appyling the concepts of Computer Organisation.
 
 How to run Assembler?
 
